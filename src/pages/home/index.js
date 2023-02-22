@@ -3,8 +3,6 @@ import React from 'react';
 import {View, Text, Image, StyleSheet} from 'react-native';
 
 export default props => {
-  console.log('Chegou a Home.js');
-
   return (
     <View style={styles.container}>
       <View style={styles.containerText}>

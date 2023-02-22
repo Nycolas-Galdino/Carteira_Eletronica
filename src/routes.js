@@ -10,7 +10,6 @@ import Info from './pages/card-info';
 const Stack = createNativeStackNavigator();
 
 export default () => {
-  console.log('Chegou a Routes.js');
 
   return (
     <NavigationContainer>
